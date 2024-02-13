@@ -1,1 +1,1 @@
-# CheeseFries
+# COS-1000
